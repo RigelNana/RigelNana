@@ -13,11 +13,13 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 - 🧑‍🎓 Currently Learning:  
   - Modern C++ (C++17/20/23)
   - Java/Go backend
+  - C# backend
 
 ## ⚙️ Tools I Use  
 - **Environment**
